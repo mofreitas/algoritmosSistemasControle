@@ -1,4 +1,3 @@
-//seguidor de referência discreto
 function[] = sr_d(G, H, C, polos)
     
     Ga = zeros(size(G, 'r')+1, size(G,'c')+size(H, 'c'));
